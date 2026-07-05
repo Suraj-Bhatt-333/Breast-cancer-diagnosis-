@@ -195,8 +195,10 @@ Breast-Cancer-Diagnosis/
 
 # 📸 Application Screenshots
 
-(<img width="1889" height="906" alt="image" src="https://github.com/user-attachments/assets/094ae36b-bbf4-48d9-98ca-68bc49cd9c08" />)
-(<img width="1916" height="904" alt="image" src="https://github.com/user-attachments/assets/b79f66c7-b8c7-491c-95ba-5615e99c6c0e" />)
+<img width="1899" height="885" alt="image" src="https://github.com/user-attachments/assets/d45aca83-dc31-4759-84eb-1a62ad054658" />
+<img width="1908" height="890" alt="image" src="https://github.com/user-attachments/assets/1d28ff5e-3248-47ec-b16f-6bf219f7fc0f" />
+
+
 
 
 
