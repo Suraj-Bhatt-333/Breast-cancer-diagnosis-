@@ -9,13 +9,13 @@ scaler = joblib.load("models/scaler.pkl")
 # setting Page Configuration
 st.set_page_config(
     page_title="Breast Cancer Diagnosis",
-    page_icon="🩺",
+    page_icon="cancer.png",
     layout="wide"
 )
 
 # building ui for streamlit
-st.image("https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Pink_ribbon.svg/200px-Pink_ribbon.svg.png", width=100)
-st.title("🩺 Breast Cancer Diagnosis")
+st.image("cancer.png", width=100)
+st.title("Breast Cancer Diagnosis 🩺")
 
 st.write(
     "Predict whether a breast tumor is Benign or Malignant using Machine Learning."
